@@ -1,0 +1,9 @@
+{
+    "name":"Profile Extraction",
+    "description": "Build a chrome extension which help to extract profiles",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
